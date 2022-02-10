@@ -18,7 +18,7 @@ Official spacex node service for running Mannheim protocol.
 
 ### Install spacex service
 ```shell
-sudo ./install.sh # Use 'sudo ./install.sh --registry cn' to accelerate installation in some areas
+sudo ./install.sh # Use 'sudo ./install.sh' to accelerate installation in some areas
 ```
 
 ### Modify config.yaml
